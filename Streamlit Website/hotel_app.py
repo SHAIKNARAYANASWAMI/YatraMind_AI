@@ -1,0 +1,105 @@
+import streamlit as st
+import pandas as pd
+import pickle
+import os
+import recommendor
+import place_func
+import rest_recc
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Load pickled DataFrames
+hotel_pkl = os.path.join(BASE_DIR, 'hotel_dataframe.pkl')
+places_pkl = os.path.join(BASE_DIR, 'places_dataframe.pkl')
+rest_pkl = os.path.join(BASE_DIR, 'rest_dataframe.pkl')
+
+with open(hotel_pkl, 'rb') as f:
+    hotel_df = pickle.load(f)
+
+with open(places_pkl, 'rb') as f:
+    main_df = pickle.load(f)
+
+with open(rest_pkl, 'rb') as f:
+    restaurant_df = pickle.load(f)
+
+# Page Configurations
+st.set_page_config(page_title="YatraMindAI", page_icon="🌍")
+
+# Website Image
+# Use the absolute path for the header image as requested
+image_path = r"C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\10001.png"
+if os.path.exists(image_path):
+    # use_container_width is the modern replacement for use_column_width
+    st.image(image_path, use_container_width=True)
+else:
+    st.warning(f'Header image not found: {image_path}')
+
+# Title and Description
+st.title("YatraMindAI: Your Travel Recommendation Companion")
+st.markdown("""
+Discover your next travel adventure with YatraMindAI! Explore personalized hotel, attraction, and restaurant recommendations based on your preferences.
+""")
+
+# User Inputs
+city = st.text_input("Enter the city:")
+hotel_features = st.text_input("Enter desired hotel features:")
+attraction_features = st.text_input("Enter desired attractions:")
+restaurant_description = st.text_input("Enter desired restaurant description:")
+restaurant_locality = st.text_input("Enter desired restaurant locality:")
+hotel_price = st.number_input("Enter maximum hotel price:")
+
+# Get Recommendations Button
+if st.button("Get Recommendations"):
+    hotel_recommendations = recommendor.recommendor(city, hotel_features, hotel_price, hotel_df)
+    attraction_recommendations = place_func.requirementbased(city, attraction_features, main_df)
+    restaurant_recommendations = rest_recc.rest_recc(city, restaurant_description, restaurant_locality, restaurant_df)
+
+    # Display recommendations
+    if city.lower() not in hotel_df['City'].str.lower().unique():
+        st.write(f"No data available for {city.title()}!! Sorry for this issue we will try to upgrade our database, Thank you for your Cooperation! ")
+    else:
+        if not hotel_recommendations.empty:
+            st.write("### Hotel Recommendations:")
+            for index, row in hotel_recommendations.iterrows():
+                expander_text = f"{row['Name'].title()}"
+                with st.expander(expander_text):
+                    st.write(f"Price: {row['Price']} Rs/Night")
+                    st.write(f"Address: {row['Address']}")
+                    st.write(f"Rating: {row['Review_Score']}")
+                    st.write(f"Amenities: {row['Amenities']}")
+                    goibibo_link = f"[Goibibo Link for {row['Name']}](https://www.goibibo.com/hotels/)"
+                    st.markdown(goibibo_link)
+        else:
+            st.write(f"No hotel recommendations found for the city: {city}")
+
+        if not attraction_recommendations.empty:
+            st.write("### Attraction Recommendations:")
+            for index, row in attraction_recommendations.iterrows():
+                expander_text = f"{row['Place'].title()}"
+                with st.expander(expander_text):
+                    st.write(f"City: {row['City'].title()}")
+                    st.write(f"Rating: {row['Rating']}")
+                    st.write(f"Description: {row['Description']}")
+        else:
+            st.write(f"No attractions found for the city: {city}")
+
+        if not restaurant_recommendations.empty:
+            st.write("### Restaurant Recommendations:")
+            for index, row in restaurant_recommendations.iterrows():
+                expander_text = f"{row['Name'].title()}"
+                with st.expander(expander_text):
+                    st.write(f"Type: {row['Type']}")
+                    st.write(f"Cuisine: {row['Cuisines']}")
+                    st.write(f"Highlights: {row['Highlights']}")
+                    st.write(f"Rating: {row['Rating']}")
+                    st.write(f"Cost for Two Person: {row['Cost for Two']}")
+                    st.write(f"Address: {row['Address']}")
+                    st.write(f"Timings: {row['Timings']}")
+        else:
+            st.write(f"No restaurants found for the city: {city}")
+
+# About the AI
+st.markdown("""
+### About YatraMindAI:
+YatraMindAI is your ultimate travel companion, designed to provide personalized recommendations based on your preferences. Whether you're searching for the perfect hotel, exploring top attractions, or discovering the best dining spots, YatraMindAI has got you covered! Start your next adventure with YatraMindAI today!
+""")

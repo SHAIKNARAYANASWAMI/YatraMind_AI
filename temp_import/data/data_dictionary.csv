@@ -1,0 +1,8 @@
+file,key fields,purpose
+users.csv,user_id,Synthetic user profile and cold-start attributes
+user_preferences.csv,"user_id, pref_*",Normalised tourism-category preference vectors
+destinations.csv,"destination_id, description",Destination catalogue and NLP/BERT text
+interactions.csv,"user_id, destination_id, interaction_type",Recommendation training and chronological train/validation/test split
+reviews.csv,"review_text, sentiment_label",BERT embeddings and optional sentiment analysis
+context_snapshots.csv,weather/traffic/crowd scores,Context-aware recommendation re-ranking
+graph_edges.csv,"source, relation, target",GNN/LightGCN/GCN/GAT graph input

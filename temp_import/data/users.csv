@@ -1,0 +1,501 @@
+user_id,age_group,home_city,home_state,budget_segment,travel_group,preferred_climate,travel_pace,accessibility_preference,signup_date
+U0001,55+,Hyderabad,Telangana,Mid-range,Friends,Humid,Relaxed,None,2024-07-05 00:00:00
+U0002,18-24,Hyderabad,Telangana,Mid-range,Friends,Cool,Balanced,None,2024-05-12 00:00:00
+U0003,45-54,Kolkata,West Bengal,Mid-range,Couple,Humid,Relaxed,Wheelchair-friendly,2024-01-27 00:00:00
+U0004,18-24,Delhi,Delhi,Mid-range,Couple,Hot,Balanced,None,2025-08-17 00:00:00
+U0005,45-54,Mumbai,Maharashtra,Budget,Friends,Moderate,Balanced,None,2024-04-09 00:00:00
+U0006,55+,Chennai,Tamil Nadu,Mid-range,Family,Cool,Relaxed,Wheelchair-friendly,2024-07-13 00:00:00
+U0007,25-34,Kolkata,West Bengal,Mid-range,Friends,Cool,Relaxed,None,2023-12-06 00:00:00
+U0008,18-24,Vijayawada,Andhra Pradesh,Mid-range,Solo,Hot,Balanced,None,2025-11-18 00:00:00
+U0009,25-34,Lucknow,Uttar Pradesh,Budget,Family,Humid,Fast-paced,None,2023-02-16 00:00:00
+U0010,35-44,Kolkata,West Bengal,Premium,Couple,Hot,Fast-paced,None,2023-01-30 00:00:00
+U0011,35-44,Chennai,Tamil Nadu,Budget,Friends,Hot,Relaxed,None,2023-07-23 00:00:00
+U0012,35-44,Kochi,Kerala,Mid-range,Solo,Moderate,Relaxed,None,2023-01-23 00:00:00
+U0013,18-24,Bengaluru,Karnataka,Budget,Friends,Cool,Balanced,None,2024-09-04 00:00:00
+U0014,55+,Chennai,Tamil Nadu,Premium,Solo,Warm,Relaxed,Low-walking,2024-07-04 00:00:00
+U0015,45-54,Pune,Maharashtra,Mid-range,Couple,Warm,Balanced,None,2025-03-30 00:00:00
+U0016,18-24,Pune,Maharashtra,Budget,Family,Humid,Relaxed,Low-walking,2025-03-22 00:00:00
+U0017,45-54,Pune,Maharashtra,Mid-range,Friends,Humid,Balanced,None,2024-08-11 00:00:00
+U0018,55+,Vijayawada,Andhra Pradesh,Budget,Couple,Cool,Relaxed,None,2023-01-22 00:00:00
+U0019,18-24,Hyderabad,Telangana,Mid-range,Solo,Hot,Balanced,None,2024-08-31 00:00:00
+U0020,25-34,Mumbai,Maharashtra,Budget,Family,Humid,Fast-paced,None,2025-10-05 00:00:00
+U0021,35-44,Hyderabad,Telangana,Budget,Family,Warm,Relaxed,None,2023-08-06 00:00:00
+U0022,18-24,Delhi,Delhi,Mid-range,Family,Warm,Relaxed,None,2025-10-24 00:00:00
+U0023,25-34,Lucknow,Uttar Pradesh,Mid-range,Friends,Moderate,Balanced,None,2024-12-12 00:00:00
+U0024,45-54,Bengaluru,Karnataka,Budget,Solo,Humid,Relaxed,None,2023-08-15 00:00:00
+U0025,55+,Hyderabad,Telangana,Budget,Solo,Cool,Balanced,None,2023-10-06 00:00:00
+U0026,45-54,Kolkata,West Bengal,Mid-range,Couple,Warm,Relaxed,None,2025-12-04 00:00:00
+U0027,25-34,Ahmedabad,Gujarat,Mid-range,Friends,Hot,Relaxed,None,2023-08-24 00:00:00
+U0028,45-54,Vijayawada,Andhra Pradesh,Budget,Family,Hot,Balanced,None,2024-10-12 00:00:00
+U0029,25-34,Ahmedabad,Gujarat,Mid-range,Family,Warm,Relaxed,Low-walking,2025-06-27 00:00:00
+U0030,18-24,Jaipur,Rajasthan,Budget,Family,Cool,Relaxed,None,2023-06-09 00:00:00
+U0031,55+,Lucknow,Uttar Pradesh,Mid-range,Couple,Cool,Relaxed,None,2023-12-08 00:00:00
+U0032,45-54,Ahmedabad,Gujarat,Budget,Friends,Hot,Fast-paced,None,2023-02-24 00:00:00
+U0033,55+,Ahmedabad,Gujarat,Budget,Friends,Warm,Relaxed,None,2025-01-10 00:00:00
+U0034,45-54,Lucknow,Uttar Pradesh,Mid-range,Couple,Warm,Fast-paced,None,2023-02-16 00:00:00
+U0035,25-34,Pune,Maharashtra,Mid-range,Friends,Humid,Balanced,Wheelchair-friendly,2023-10-21 00:00:00
+U0036,55+,Bengaluru,Karnataka,Budget,Couple,Hot,Relaxed,None,2025-02-19 00:00:00
+U0037,25-34,Kochi,Kerala,Premium,Solo,Moderate,Relaxed,Wheelchair-friendly,2023-04-01 00:00:00
+U0038,55+,Bengaluru,Karnataka,Mid-range,Friends,Moderate,Balanced,Low-walking,2024-03-15 00:00:00
+U0039,45-54,Lucknow,Uttar Pradesh,Mid-range,Solo,Cool,Relaxed,None,2024-04-19 00:00:00
+U0040,25-34,Vijayawada,Andhra Pradesh,Mid-range,Family,Hot,Fast-paced,Wheelchair-friendly,2025-08-07 00:00:00
+U0041,18-24,Jaipur,Rajasthan,Mid-range,Solo,Cool,Fast-paced,None,2024-06-05 00:00:00
+U0042,45-54,Hyderabad,Telangana,Premium,Solo,Cool,Fast-paced,None,2025-10-18 00:00:00
+U0043,35-44,Chennai,Tamil Nadu,Budget,Couple,Warm,Balanced,None,2024-06-20 00:00:00
+U0044,18-24,Kolkata,West Bengal,Mid-range,Couple,Warm,Balanced,None,2024-09-27 00:00:00
+U0045,18-24,Ahmedabad,Gujarat,Mid-range,Solo,Humid,Balanced,None,2024-10-27 00:00:00
+U0046,45-54,Lucknow,Uttar Pradesh,Budget,Family,Cool,Relaxed,None,2023-12-31 00:00:00
+U0047,55+,Lucknow,Uttar Pradesh,Mid-range,Family,Cool,Relaxed,None,2024-01-19 00:00:00
+U0048,18-24,Pune,Maharashtra,Budget,Couple,Moderate,Relaxed,None,2025-02-20 00:00:00
+U0049,45-54,Lucknow,Uttar Pradesh,Budget,Friends,Moderate,Relaxed,None,2024-08-23 00:00:00
+U0050,45-54,Delhi,Delhi,Budget,Couple,Humid,Relaxed,Wheelchair-friendly,2026-01-04 00:00:00
+U0051,35-44,Jaipur,Rajasthan,Budget,Friends,Humid,Fast-paced,None,2024-07-26 00:00:00
+U0052,55+,Lucknow,Uttar Pradesh,Mid-range,Family,Hot,Relaxed,None,2023-08-28 00:00:00
+U0053,18-24,Ahmedabad,Gujarat,Budget,Friends,Moderate,Relaxed,None,2024-06-03 00:00:00
+U0054,35-44,Lucknow,Uttar Pradesh,Mid-range,Friends,Hot,Balanced,None,2024-02-09 00:00:00
+U0055,55+,Chennai,Tamil Nadu,Budget,Couple,Cool,Relaxed,None,2023-09-11 00:00:00
+U0056,45-54,Kochi,Kerala,Budget,Friends,Warm,Relaxed,None,2023-05-27 00:00:00
+U0057,35-44,Lucknow,Uttar Pradesh,Mid-range,Family,Moderate,Fast-paced,None,2025-02-07 00:00:00
+U0058,45-54,Bengaluru,Karnataka,Budget,Couple,Hot,Balanced,None,2024-10-29 00:00:00
+U0059,55+,Bengaluru,Karnataka,Budget,Friends,Warm,Fast-paced,None,2025-10-19 00:00:00
+U0060,55+,Kolkata,West Bengal,Budget,Family,Humid,Relaxed,None,2023-03-21 00:00:00
+U0061,25-34,Lucknow,Uttar Pradesh,Mid-range,Friends,Humid,Fast-paced,None,2024-04-18 00:00:00
+U0062,25-34,Mumbai,Maharashtra,Mid-range,Solo,Cool,Balanced,None,2023-07-20 00:00:00
+U0063,45-54,Hyderabad,Telangana,Premium,Solo,Hot,Balanced,Low-walking,2024-03-15 00:00:00
+U0064,18-24,Pune,Maharashtra,Budget,Friends,Moderate,Balanced,None,2024-04-20 00:00:00
+U0065,25-34,Bengaluru,Karnataka,Budget,Solo,Moderate,Balanced,None,2025-08-02 00:00:00
+U0066,45-54,Chennai,Tamil Nadu,Premium,Couple,Humid,Relaxed,None,2025-09-10 00:00:00
+U0067,45-54,Jaipur,Rajasthan,Premium,Solo,Hot,Balanced,None,2024-04-02 00:00:00
+U0068,18-24,Vijayawada,Andhra Pradesh,Mid-range,Friends,Humid,Relaxed,None,2023-10-25 00:00:00
+U0069,18-24,Delhi,Delhi,Premium,Couple,Moderate,Fast-paced,None,2025-01-02 00:00:00
+U0070,55+,Chennai,Tamil Nadu,Mid-range,Solo,Warm,Relaxed,None,2025-12-22 00:00:00
+U0071,55+,Ahmedabad,Gujarat,Mid-range,Friends,Humid,Relaxed,None,2024-01-18 00:00:00
+U0072,25-34,Pune,Maharashtra,Mid-range,Family,Hot,Balanced,None,2024-06-06 00:00:00
+U0073,45-54,Jaipur,Rajasthan,Mid-range,Couple,Moderate,Fast-paced,None,2023-12-08 00:00:00
+U0074,35-44,Kochi,Kerala,Budget,Friends,Warm,Relaxed,None,2024-01-08 00:00:00
+U0075,25-34,Delhi,Delhi,Budget,Solo,Humid,Fast-paced,None,2023-01-31 00:00:00
+U0076,25-34,Mumbai,Maharashtra,Budget,Friends,Hot,Relaxed,None,2023-11-02 00:00:00
+U0077,18-24,Kochi,Kerala,Mid-range,Friends,Hot,Balanced,None,2023-05-29 00:00:00
+U0078,18-24,Lucknow,Uttar Pradesh,Budget,Family,Hot,Fast-paced,None,2025-09-24 00:00:00
+U0079,25-34,Mumbai,Maharashtra,Budget,Friends,Humid,Relaxed,None,2025-07-12 00:00:00
+U0080,55+,Jaipur,Rajasthan,Mid-range,Family,Hot,Balanced,None,2024-06-12 00:00:00
+U0081,25-34,Ahmedabad,Gujarat,Mid-range,Couple,Hot,Balanced,None,2023-03-15 00:00:00
+U0082,35-44,Mumbai,Maharashtra,Premium,Solo,Humid,Fast-paced,None,2024-03-07 00:00:00
+U0083,55+,Jaipur,Rajasthan,Mid-range,Friends,Cool,Fast-paced,None,2025-04-29 00:00:00
+U0084,35-44,Chennai,Tamil Nadu,Budget,Friends,Hot,Relaxed,Low-walking,2025-04-26 00:00:00
+U0085,55+,Bengaluru,Karnataka,Premium,Family,Hot,Balanced,None,2023-07-28 00:00:00
+U0086,18-24,Mumbai,Maharashtra,Mid-range,Friends,Moderate,Balanced,None,2025-06-21 00:00:00
+U0087,25-34,Hyderabad,Telangana,Budget,Solo,Cool,Relaxed,None,2024-06-19 00:00:00
+U0088,45-54,Vijayawada,Andhra Pradesh,Mid-range,Couple,Warm,Fast-paced,None,2023-02-07 00:00:00
+U0089,35-44,Delhi,Delhi,Budget,Solo,Humid,Relaxed,None,2023-03-22 00:00:00
+U0090,35-44,Bengaluru,Karnataka,Budget,Solo,Moderate,Fast-paced,None,2025-02-06 00:00:00
+U0091,55+,Kolkata,West Bengal,Mid-range,Solo,Humid,Relaxed,None,2024-03-03 00:00:00
+U0092,25-34,Mumbai,Maharashtra,Premium,Couple,Cool,Balanced,None,2024-06-04 00:00:00
+U0093,18-24,Bengaluru,Karnataka,Budget,Solo,Warm,Balanced,None,2024-02-12 00:00:00
+U0094,35-44,Bengaluru,Karnataka,Mid-range,Family,Cool,Fast-paced,None,2024-02-03 00:00:00
+U0095,35-44,Kochi,Kerala,Premium,Friends,Cool,Fast-paced,None,2024-08-11 00:00:00
+U0096,35-44,Kolkata,West Bengal,Mid-range,Couple,Warm,Relaxed,None,2023-04-23 00:00:00
+U0097,35-44,Chennai,Tamil Nadu,Mid-range,Family,Moderate,Relaxed,None,2024-04-10 00:00:00
+U0098,45-54,Jaipur,Rajasthan,Budget,Family,Warm,Fast-paced,None,2023-03-26 00:00:00
+U0099,45-54,Hyderabad,Telangana,Budget,Couple,Warm,Relaxed,Wheelchair-friendly,2025-06-20 00:00:00
+U0100,45-54,Jaipur,Rajasthan,Mid-range,Couple,Cool,Balanced,None,2023-06-11 00:00:00
+U0101,18-24,Kolkata,West Bengal,Budget,Friends,Humid,Balanced,None,2025-05-07 00:00:00
+U0102,45-54,Pune,Maharashtra,Mid-range,Friends,Cool,Balanced,Low-walking,2023-11-16 00:00:00
+U0103,45-54,Hyderabad,Telangana,Premium,Family,Cool,Balanced,None,2025-11-10 00:00:00
+U0104,25-34,Delhi,Delhi,Mid-range,Solo,Humid,Fast-paced,None,2023-06-29 00:00:00
+U0105,25-34,Kochi,Kerala,Premium,Couple,Humid,Relaxed,Low-walking,2025-06-30 00:00:00
+U0106,18-24,Pune,Maharashtra,Mid-range,Family,Humid,Fast-paced,Wheelchair-friendly,2025-04-21 00:00:00
+U0107,18-24,Vijayawada,Andhra Pradesh,Mid-range,Couple,Warm,Balanced,None,2025-05-15 00:00:00
+U0108,25-34,Ahmedabad,Gujarat,Mid-range,Solo,Warm,Fast-paced,None,2025-04-13 00:00:00
+U0109,55+,Jaipur,Rajasthan,Mid-range,Friends,Cool,Relaxed,None,2023-06-18 00:00:00
+U0110,55+,Mumbai,Maharashtra,Budget,Solo,Humid,Balanced,None,2024-09-22 00:00:00
+U0111,35-44,Chennai,Tamil Nadu,Mid-range,Friends,Moderate,Fast-paced,Low-walking,2025-06-08 00:00:00
+U0112,25-34,Bengaluru,Karnataka,Budget,Solo,Hot,Fast-paced,None,2024-02-23 00:00:00
+U0113,18-24,Pune,Maharashtra,Mid-range,Couple,Cool,Relaxed,None,2023-11-18 00:00:00
+U0114,55+,Pune,Maharashtra,Mid-range,Solo,Moderate,Fast-paced,None,2023-04-11 00:00:00
+U0115,45-54,Jaipur,Rajasthan,Mid-range,Friends,Humid,Relaxed,None,2024-02-05 00:00:00
+U0116,25-34,Delhi,Delhi,Mid-range,Couple,Hot,Balanced,Wheelchair-friendly,2025-01-16 00:00:00
+U0117,45-54,Hyderabad,Telangana,Budget,Couple,Humid,Relaxed,None,2023-07-06 00:00:00
+U0118,45-54,Mumbai,Maharashtra,Budget,Solo,Hot,Relaxed,None,2024-05-26 00:00:00
+U0119,25-34,Mumbai,Maharashtra,Mid-range,Solo,Hot,Relaxed,None,2025-08-19 00:00:00
+U0120,35-44,Bengaluru,Karnataka,Budget,Solo,Humid,Relaxed,None,2023-04-24 00:00:00
+U0121,35-44,Hyderabad,Telangana,Budget,Family,Warm,Fast-paced,None,2025-07-25 00:00:00
+U0122,55+,Mumbai,Maharashtra,Premium,Solo,Cool,Fast-paced,None,2024-10-30 00:00:00
+U0123,18-24,Bengaluru,Karnataka,Budget,Solo,Moderate,Balanced,None,2024-05-28 00:00:00
+U0124,18-24,Pune,Maharashtra,Mid-range,Family,Humid,Balanced,None,2023-04-25 00:00:00
+U0125,45-54,Hyderabad,Telangana,Mid-range,Friends,Hot,Fast-paced,None,2023-03-24 00:00:00
+U0126,35-44,Lucknow,Uttar Pradesh,Mid-range,Couple,Humid,Relaxed,Low-walking,2024-08-25 00:00:00
+U0127,55+,Hyderabad,Telangana,Premium,Family,Hot,Fast-paced,Wheelchair-friendly,2024-06-25 00:00:00
+U0128,55+,Delhi,Delhi,Mid-range,Solo,Cool,Fast-paced,Wheelchair-friendly,2025-03-22 00:00:00
+U0129,35-44,Chennai,Tamil Nadu,Premium,Couple,Moderate,Balanced,Low-walking,2024-10-30 00:00:00
+U0130,35-44,Bengaluru,Karnataka,Budget,Family,Humid,Fast-paced,None,2023-07-01 00:00:00
+U0131,25-34,Chennai,Tamil Nadu,Budget,Solo,Moderate,Relaxed,Wheelchair-friendly,2025-08-11 00:00:00
+U0132,35-44,Vijayawada,Andhra Pradesh,Mid-range,Family,Cool,Relaxed,None,2023-07-19 00:00:00
+U0133,45-54,Pune,Maharashtra,Premium,Family,Cool,Relaxed,None,2023-01-20 00:00:00
+U0134,18-24,Delhi,Delhi,Premium,Family,Warm,Relaxed,Low-walking,2023-12-27 00:00:00
+U0135,55+,Delhi,Delhi,Budget,Couple,Warm,Fast-paced,None,2024-06-30 00:00:00
+U0136,55+,Vijayawada,Andhra Pradesh,Budget,Family,Moderate,Balanced,None,2024-10-02 00:00:00
+U0137,25-34,Bengaluru,Karnataka,Mid-range,Solo,Humid,Balanced,None,2025-04-04 00:00:00
+U0138,25-34,Delhi,Delhi,Mid-range,Couple,Hot,Balanced,Low-walking,2025-09-13 00:00:00
+U0139,45-54,Chennai,Tamil Nadu,Premium,Couple,Hot,Relaxed,Low-walking,2025-07-31 00:00:00
+U0140,18-24,Kochi,Kerala,Mid-range,Friends,Humid,Balanced,None,2025-12-03 00:00:00
+U0141,45-54,Pune,Maharashtra,Mid-range,Friends,Humid,Relaxed,None,2025-07-24 00:00:00
+U0142,55+,Vijayawada,Andhra Pradesh,Budget,Couple,Cool,Balanced,None,2024-06-02 00:00:00
+U0143,25-34,Ahmedabad,Gujarat,Premium,Solo,Hot,Relaxed,None,2023-02-12 00:00:00
+U0144,45-54,Kolkata,West Bengal,Budget,Friends,Cool,Balanced,None,2025-03-13 00:00:00
+U0145,18-24,Delhi,Delhi,Mid-range,Friends,Moderate,Relaxed,None,2025-07-26 00:00:00
+U0146,45-54,Lucknow,Uttar Pradesh,Budget,Couple,Hot,Balanced,None,2024-09-23 00:00:00
+U0147,35-44,Hyderabad,Telangana,Budget,Couple,Warm,Balanced,None,2024-12-12 00:00:00
+U0148,18-24,Chennai,Tamil Nadu,Mid-range,Family,Hot,Relaxed,Wheelchair-friendly,2024-09-23 00:00:00
+U0149,55+,Vijayawada,Andhra Pradesh,Budget,Friends,Warm,Relaxed,None,2023-04-16 00:00:00
+U0150,18-24,Ahmedabad,Gujarat,Budget,Couple,Humid,Relaxed,None,2023-05-02 00:00:00
+U0151,35-44,Jaipur,Rajasthan,Mid-range,Couple,Humid,Balanced,Low-walking,2025-08-06 00:00:00
+U0152,45-54,Delhi,Delhi,Budget,Couple,Humid,Balanced,None,2024-06-03 00:00:00
+U0153,18-24,Jaipur,Rajasthan,Budget,Friends,Moderate,Fast-paced,Wheelchair-friendly,2025-02-19 00:00:00
+U0154,55+,Kolkata,West Bengal,Budget,Friends,Cool,Fast-paced,None,2025-02-08 00:00:00
+U0155,25-34,Pune,Maharashtra,Budget,Family,Humid,Balanced,Low-walking,2025-12-28 00:00:00
+U0156,45-54,Vijayawada,Andhra Pradesh,Budget,Couple,Humid,Balanced,None,2025-05-07 00:00:00
+U0157,25-34,Kolkata,West Bengal,Premium,Friends,Moderate,Fast-paced,None,2025-11-21 00:00:00
+U0158,18-24,Bengaluru,Karnataka,Mid-range,Solo,Humid,Balanced,None,2025-01-21 00:00:00
+U0159,25-34,Lucknow,Uttar Pradesh,Budget,Solo,Hot,Balanced,Wheelchair-friendly,2023-03-24 00:00:00
+U0160,45-54,Kochi,Kerala,Budget,Family,Hot,Fast-paced,None,2024-06-07 00:00:00
+U0161,25-34,Vijayawada,Andhra Pradesh,Mid-range,Couple,Hot,Relaxed,Low-walking,2023-01-10 00:00:00
+U0162,55+,Vijayawada,Andhra Pradesh,Premium,Solo,Warm,Balanced,None,2023-08-21 00:00:00
+U0163,45-54,Vijayawada,Andhra Pradesh,Budget,Solo,Cool,Fast-paced,None,2024-09-20 00:00:00
+U0164,45-54,Lucknow,Uttar Pradesh,Mid-range,Couple,Cool,Balanced,None,2024-02-04 00:00:00
+U0165,25-34,Vijayawada,Andhra Pradesh,Budget,Couple,Warm,Fast-paced,None,2025-05-30 00:00:00
+U0166,35-44,Chennai,Tamil Nadu,Premium,Family,Moderate,Relaxed,None,2024-08-07 00:00:00
+U0167,18-24,Lucknow,Uttar Pradesh,Mid-range,Solo,Warm,Balanced,Wheelchair-friendly,2023-02-14 00:00:00
+U0168,45-54,Jaipur,Rajasthan,Budget,Solo,Humid,Fast-paced,None,2023-01-18 00:00:00
+U0169,18-24,Jaipur,Rajasthan,Budget,Couple,Warm,Balanced,None,2025-06-14 00:00:00
+U0170,45-54,Delhi,Delhi,Mid-range,Couple,Humid,Relaxed,None,2025-05-10 00:00:00
+U0171,55+,Kochi,Kerala,Premium,Couple,Hot,Fast-paced,None,2024-04-18 00:00:00
+U0172,18-24,Ahmedabad,Gujarat,Budget,Friends,Cool,Relaxed,None,2025-04-15 00:00:00
+U0173,35-44,Kochi,Kerala,Budget,Couple,Warm,Fast-paced,None,2026-01-04 00:00:00
+U0174,45-54,Hyderabad,Telangana,Mid-range,Friends,Cool,Fast-paced,None,2025-05-16 00:00:00
+U0175,25-34,Delhi,Delhi,Mid-range,Family,Hot,Relaxed,None,2024-06-25 00:00:00
+U0176,55+,Jaipur,Rajasthan,Budget,Solo,Moderate,Balanced,Wheelchair-friendly,2024-08-14 00:00:00
+U0177,25-34,Pune,Maharashtra,Mid-range,Solo,Moderate,Balanced,None,2025-08-17 00:00:00
+U0178,25-34,Kolkata,West Bengal,Mid-range,Friends,Warm,Relaxed,None,2023-06-09 00:00:00
+U0179,45-54,Chennai,Tamil Nadu,Mid-range,Solo,Hot,Relaxed,None,2023-02-05 00:00:00
+U0180,45-54,Pune,Maharashtra,Budget,Solo,Moderate,Balanced,None,2025-08-09 00:00:00
+U0181,18-24,Pune,Maharashtra,Mid-range,Friends,Hot,Fast-paced,None,2024-08-20 00:00:00
+U0182,55+,Lucknow,Uttar Pradesh,Budget,Couple,Warm,Balanced,None,2023-02-19 00:00:00
+U0183,45-54,Hyderabad,Telangana,Premium,Solo,Hot,Fast-paced,None,2025-04-12 00:00:00
+U0184,55+,Pune,Maharashtra,Premium,Family,Cool,Fast-paced,Low-walking,2025-11-15 00:00:00
+U0185,45-54,Hyderabad,Telangana,Budget,Couple,Humid,Relaxed,None,2024-06-24 00:00:00
+U0186,45-54,Delhi,Delhi,Mid-range,Solo,Hot,Fast-paced,None,2025-01-27 00:00:00
+U0187,18-24,Kochi,Kerala,Budget,Family,Cool,Relaxed,None,2025-08-21 00:00:00
+U0188,35-44,Vijayawada,Andhra Pradesh,Mid-range,Couple,Warm,Balanced,None,2025-10-24 00:00:00
+U0189,35-44,Kolkata,West Bengal,Budget,Solo,Cool,Balanced,None,2023-12-22 00:00:00
+U0190,25-34,Jaipur,Rajasthan,Budget,Couple,Humid,Fast-paced,None,2024-04-12 00:00:00
+U0191,18-24,Delhi,Delhi,Mid-range,Family,Warm,Relaxed,Low-walking,2025-08-12 00:00:00
+U0192,25-34,Hyderabad,Telangana,Mid-range,Friends,Hot,Relaxed,None,2025-09-25 00:00:00
+U0193,18-24,Bengaluru,Karnataka,Premium,Solo,Humid,Balanced,None,2023-04-18 00:00:00
+U0194,25-34,Kochi,Kerala,Mid-range,Family,Humid,Balanced,Wheelchair-friendly,2023-11-05 00:00:00
+U0195,18-24,Hyderabad,Telangana,Mid-range,Friends,Humid,Balanced,None,2024-09-11 00:00:00
+U0196,35-44,Kolkata,West Bengal,Mid-range,Couple,Warm,Balanced,Low-walking,2023-04-20 00:00:00
+U0197,35-44,Ahmedabad,Gujarat,Budget,Couple,Humid,Balanced,None,2024-10-29 00:00:00
+U0198,55+,Mumbai,Maharashtra,Premium,Couple,Warm,Relaxed,None,2023-01-31 00:00:00
+U0199,25-34,Delhi,Delhi,Budget,Friends,Warm,Fast-paced,Low-walking,2025-01-07 00:00:00
+U0200,35-44,Mumbai,Maharashtra,Mid-range,Family,Humid,Relaxed,None,2023-02-15 00:00:00
+U0201,45-54,Delhi,Delhi,Premium,Family,Cool,Fast-paced,None,2024-12-10 00:00:00
+U0202,55+,Kochi,Kerala,Mid-range,Family,Cool,Balanced,None,2024-07-18 00:00:00
+U0203,25-34,Kochi,Kerala,Budget,Couple,Hot,Relaxed,None,2023-10-29 00:00:00
+U0204,45-54,Delhi,Delhi,Budget,Friends,Humid,Relaxed,Low-walking,2025-08-09 00:00:00
+U0205,45-54,Bengaluru,Karnataka,Mid-range,Friends,Warm,Fast-paced,None,2023-10-03 00:00:00
+U0206,55+,Bengaluru,Karnataka,Mid-range,Couple,Hot,Fast-paced,None,2024-05-17 00:00:00
+U0207,25-34,Delhi,Delhi,Mid-range,Family,Moderate,Relaxed,None,2023-03-21 00:00:00
+U0208,18-24,Hyderabad,Telangana,Premium,Family,Humid,Balanced,None,2025-07-05 00:00:00
+U0209,18-24,Jaipur,Rajasthan,Mid-range,Friends,Cool,Fast-paced,Low-walking,2024-12-01 00:00:00
+U0210,45-54,Hyderabad,Telangana,Budget,Couple,Humid,Balanced,None,2025-01-14 00:00:00
+U0211,18-24,Kolkata,West Bengal,Budget,Solo,Cool,Relaxed,None,2024-06-20 00:00:00
+U0212,45-54,Ahmedabad,Gujarat,Premium,Couple,Moderate,Relaxed,None,2025-06-01 00:00:00
+U0213,18-24,Chennai,Tamil Nadu,Mid-range,Friends,Cool,Relaxed,None,2024-02-12 00:00:00
+U0214,35-44,Mumbai,Maharashtra,Mid-range,Couple,Moderate,Relaxed,None,2024-01-13 00:00:00
+U0215,45-54,Delhi,Delhi,Mid-range,Solo,Humid,Balanced,None,2023-07-13 00:00:00
+U0216,45-54,Kochi,Kerala,Budget,Friends,Moderate,Relaxed,None,2024-11-21 00:00:00
+U0217,45-54,Ahmedabad,Gujarat,Budget,Family,Warm,Fast-paced,None,2025-04-02 00:00:00
+U0218,45-54,Lucknow,Uttar Pradesh,Mid-range,Family,Hot,Relaxed,None,2025-05-18 00:00:00
+U0219,55+,Jaipur,Rajasthan,Budget,Family,Hot,Balanced,None,2023-02-05 00:00:00
+U0220,18-24,Jaipur,Rajasthan,Budget,Friends,Hot,Balanced,Low-walking,2023-02-17 00:00:00
+U0221,18-24,Pune,Maharashtra,Mid-range,Couple,Hot,Balanced,None,2025-06-01 00:00:00
+U0222,18-24,Lucknow,Uttar Pradesh,Budget,Couple,Humid,Relaxed,None,2023-11-18 00:00:00
+U0223,18-24,Hyderabad,Telangana,Premium,Friends,Moderate,Relaxed,None,2024-11-07 00:00:00
+U0224,35-44,Vijayawada,Andhra Pradesh,Budget,Friends,Cool,Balanced,None,2025-09-30 00:00:00
+U0225,55+,Chennai,Tamil Nadu,Mid-range,Couple,Moderate,Relaxed,None,2024-11-08 00:00:00
+U0226,25-34,Lucknow,Uttar Pradesh,Budget,Solo,Warm,Balanced,Low-walking,2023-11-07 00:00:00
+U0227,25-34,Kochi,Kerala,Premium,Friends,Moderate,Fast-paced,None,2024-12-14 00:00:00
+U0228,25-34,Lucknow,Uttar Pradesh,Mid-range,Solo,Warm,Relaxed,None,2023-07-24 00:00:00
+U0229,35-44,Lucknow,Uttar Pradesh,Mid-range,Friends,Hot,Balanced,Wheelchair-friendly,2025-08-30 00:00:00
+U0230,35-44,Bengaluru,Karnataka,Mid-range,Friends,Hot,Fast-paced,Wheelchair-friendly,2025-09-01 00:00:00
+U0231,55+,Pune,Maharashtra,Budget,Friends,Moderate,Fast-paced,None,2025-08-26 00:00:00
+U0232,18-24,Kolkata,West Bengal,Budget,Solo,Humid,Balanced,None,2024-05-07 00:00:00
+U0233,55+,Kolkata,West Bengal,Premium,Couple,Humid,Fast-paced,None,2025-09-17 00:00:00
+U0234,25-34,Lucknow,Uttar Pradesh,Premium,Solo,Cool,Fast-paced,None,2023-03-16 00:00:00
+U0235,45-54,Mumbai,Maharashtra,Budget,Family,Humid,Relaxed,None,2023-09-10 00:00:00
+U0236,35-44,Chennai,Tamil Nadu,Budget,Friends,Warm,Fast-paced,Low-walking,2025-08-14 00:00:00
+U0237,55+,Chennai,Tamil Nadu,Budget,Couple,Warm,Balanced,None,2025-06-09 00:00:00
+U0238,18-24,Chennai,Tamil Nadu,Premium,Solo,Hot,Fast-paced,None,2025-03-27 00:00:00
+U0239,45-54,Chennai,Tamil Nadu,Budget,Couple,Cool,Fast-paced,Low-walking,2023-06-03 00:00:00
+U0240,25-34,Ahmedabad,Gujarat,Mid-range,Family,Cool,Balanced,None,2023-05-12 00:00:00
+U0241,35-44,Lucknow,Uttar Pradesh,Premium,Family,Hot,Balanced,None,2024-08-01 00:00:00
+U0242,18-24,Delhi,Delhi,Premium,Friends,Hot,Fast-paced,None,2024-05-04 00:00:00
+U0243,45-54,Ahmedabad,Gujarat,Mid-range,Friends,Humid,Relaxed,None,2024-01-24 00:00:00
+U0244,25-34,Jaipur,Rajasthan,Budget,Solo,Hot,Balanced,None,2025-11-16 00:00:00
+U0245,35-44,Ahmedabad,Gujarat,Mid-range,Friends,Cool,Balanced,None,2024-04-11 00:00:00
+U0246,25-34,Delhi,Delhi,Mid-range,Solo,Warm,Balanced,None,2024-01-31 00:00:00
+U0247,18-24,Lucknow,Uttar Pradesh,Budget,Friends,Humid,Balanced,None,2024-11-11 00:00:00
+U0248,18-24,Delhi,Delhi,Mid-range,Solo,Cool,Fast-paced,None,2025-08-11 00:00:00
+U0249,18-24,Ahmedabad,Gujarat,Mid-range,Friends,Humid,Relaxed,Low-walking,2024-11-21 00:00:00
+U0250,18-24,Hyderabad,Telangana,Premium,Family,Humid,Balanced,None,2025-11-02 00:00:00
+U0251,25-34,Jaipur,Rajasthan,Premium,Friends,Warm,Balanced,None,2025-02-25 00:00:00
+U0252,25-34,Lucknow,Uttar Pradesh,Premium,Solo,Moderate,Fast-paced,None,2025-03-29 00:00:00
+U0253,25-34,Mumbai,Maharashtra,Budget,Solo,Moderate,Balanced,None,2025-05-01 00:00:00
+U0254,45-54,Kochi,Kerala,Mid-range,Family,Hot,Relaxed,None,2024-07-28 00:00:00
+U0255,35-44,Mumbai,Maharashtra,Mid-range,Solo,Hot,Relaxed,None,2023-08-28 00:00:00
+U0256,18-24,Jaipur,Rajasthan,Budget,Friends,Moderate,Fast-paced,None,2025-07-14 00:00:00
+U0257,45-54,Lucknow,Uttar Pradesh,Mid-range,Family,Hot,Balanced,None,2023-07-28 00:00:00
+U0258,45-54,Kolkata,West Bengal,Budget,Solo,Hot,Fast-paced,None,2024-08-21 00:00:00
+U0259,45-54,Kolkata,West Bengal,Budget,Solo,Moderate,Balanced,None,2023-11-17 00:00:00
+U0260,35-44,Pune,Maharashtra,Mid-range,Couple,Cool,Relaxed,None,2023-03-14 00:00:00
+U0261,25-34,Hyderabad,Telangana,Budget,Solo,Humid,Relaxed,None,2023-10-09 00:00:00
+U0262,18-24,Pune,Maharashtra,Mid-range,Solo,Cool,Balanced,None,2023-03-17 00:00:00
+U0263,55+,Kolkata,West Bengal,Budget,Family,Humid,Balanced,None,2024-07-14 00:00:00
+U0264,18-24,Lucknow,Uttar Pradesh,Budget,Couple,Humid,Fast-paced,None,2024-03-29 00:00:00
+U0265,18-24,Kochi,Kerala,Mid-range,Family,Cool,Fast-paced,None,2024-05-02 00:00:00
+U0266,35-44,Kochi,Kerala,Mid-range,Family,Warm,Relaxed,Low-walking,2024-04-15 00:00:00
+U0267,35-44,Ahmedabad,Gujarat,Budget,Couple,Hot,Fast-paced,None,2024-08-11 00:00:00
+U0268,45-54,Chennai,Tamil Nadu,Premium,Couple,Humid,Balanced,Low-walking,2024-12-19 00:00:00
+U0269,35-44,Chennai,Tamil Nadu,Mid-range,Friends,Humid,Fast-paced,None,2023-08-17 00:00:00
+U0270,55+,Bengaluru,Karnataka,Budget,Couple,Warm,Relaxed,Wheelchair-friendly,2025-11-03 00:00:00
+U0271,18-24,Vijayawada,Andhra Pradesh,Budget,Couple,Humid,Relaxed,None,2024-06-01 00:00:00
+U0272,35-44,Jaipur,Rajasthan,Budget,Solo,Cool,Balanced,None,2023-12-12 00:00:00
+U0273,55+,Ahmedabad,Gujarat,Mid-range,Family,Moderate,Relaxed,Low-walking,2023-12-08 00:00:00
+U0274,55+,Ahmedabad,Gujarat,Premium,Family,Hot,Fast-paced,None,2023-03-31 00:00:00
+U0275,55+,Delhi,Delhi,Premium,Family,Hot,Relaxed,Wheelchair-friendly,2024-09-09 00:00:00
+U0276,18-24,Jaipur,Rajasthan,Mid-range,Solo,Cool,Relaxed,None,2025-04-08 00:00:00
+U0277,18-24,Vijayawada,Andhra Pradesh,Budget,Family,Moderate,Fast-paced,None,2025-02-01 00:00:00
+U0278,25-34,Bengaluru,Karnataka,Premium,Friends,Hot,Fast-paced,Wheelchair-friendly,2025-09-25 00:00:00
+U0279,55+,Bengaluru,Karnataka,Mid-range,Family,Moderate,Balanced,None,2025-03-21 00:00:00
+U0280,55+,Delhi,Delhi,Premium,Couple,Moderate,Relaxed,Wheelchair-friendly,2025-05-15 00:00:00
+U0281,18-24,Lucknow,Uttar Pradesh,Mid-range,Family,Warm,Relaxed,None,2024-09-25 00:00:00
+U0282,45-54,Delhi,Delhi,Budget,Friends,Humid,Relaxed,None,2024-10-25 00:00:00
+U0283,45-54,Lucknow,Uttar Pradesh,Mid-range,Solo,Moderate,Balanced,None,2023-04-12 00:00:00
+U0284,45-54,Chennai,Tamil Nadu,Budget,Friends,Warm,Balanced,None,2024-02-29 00:00:00
+U0285,45-54,Ahmedabad,Gujarat,Mid-range,Friends,Warm,Fast-paced,Low-walking,2024-02-11 00:00:00
+U0286,55+,Vijayawada,Andhra Pradesh,Mid-range,Friends,Warm,Fast-paced,None,2026-01-03 00:00:00
+U0287,35-44,Chennai,Tamil Nadu,Budget,Couple,Cool,Balanced,None,2023-11-01 00:00:00
+U0288,45-54,Jaipur,Rajasthan,Budget,Friends,Cool,Fast-paced,Low-walking,2025-01-30 00:00:00
+U0289,35-44,Vijayawada,Andhra Pradesh,Mid-range,Solo,Hot,Fast-paced,None,2023-02-17 00:00:00
+U0290,35-44,Mumbai,Maharashtra,Budget,Friends,Moderate,Fast-paced,None,2023-06-02 00:00:00
+U0291,35-44,Jaipur,Rajasthan,Budget,Solo,Hot,Relaxed,Low-walking,2024-04-02 00:00:00
+U0292,18-24,Hyderabad,Telangana,Budget,Family,Cool,Relaxed,None,2023-08-27 00:00:00
+U0293,18-24,Mumbai,Maharashtra,Mid-range,Family,Humid,Balanced,None,2023-06-28 00:00:00
+U0294,55+,Bengaluru,Karnataka,Mid-range,Friends,Moderate,Balanced,None,2025-07-21 00:00:00
+U0295,25-34,Chennai,Tamil Nadu,Premium,Couple,Cool,Balanced,None,2023-02-05 00:00:00
+U0296,35-44,Pune,Maharashtra,Mid-range,Couple,Humid,Balanced,None,2023-01-26 00:00:00
+U0297,25-34,Delhi,Delhi,Mid-range,Friends,Cool,Balanced,Low-walking,2023-12-09 00:00:00
+U0298,55+,Vijayawada,Andhra Pradesh,Mid-range,Family,Humid,Fast-paced,None,2024-10-18 00:00:00
+U0299,45-54,Vijayawada,Andhra Pradesh,Premium,Solo,Cool,Relaxed,None,2025-12-24 00:00:00
+U0300,45-54,Delhi,Delhi,Premium,Family,Moderate,Balanced,None,2024-06-07 00:00:00
+U0301,25-34,Bengaluru,Karnataka,Budget,Couple,Warm,Relaxed,None,2025-08-05 00:00:00
+U0302,45-54,Pune,Maharashtra,Budget,Friends,Cool,Balanced,Low-walking,2023-11-03 00:00:00
+U0303,18-24,Chennai,Tamil Nadu,Mid-range,Solo,Humid,Balanced,None,2025-08-30 00:00:00
+U0304,55+,Hyderabad,Telangana,Budget,Couple,Warm,Relaxed,None,2025-01-12 00:00:00
+U0305,25-34,Vijayawada,Andhra Pradesh,Budget,Friends,Moderate,Relaxed,None,2024-08-15 00:00:00
+U0306,45-54,Ahmedabad,Gujarat,Mid-range,Solo,Moderate,Balanced,Wheelchair-friendly,2024-09-21 00:00:00
+U0307,18-24,Bengaluru,Karnataka,Premium,Family,Cool,Relaxed,None,2025-07-14 00:00:00
+U0308,35-44,Kochi,Kerala,Mid-range,Family,Warm,Relaxed,None,2023-11-01 00:00:00
+U0309,18-24,Pune,Maharashtra,Mid-range,Friends,Humid,Relaxed,None,2025-08-10 00:00:00
+U0310,18-24,Bengaluru,Karnataka,Budget,Solo,Hot,Fast-paced,None,2025-06-11 00:00:00
+U0311,55+,Jaipur,Rajasthan,Premium,Friends,Hot,Fast-paced,None,2024-07-20 00:00:00
+U0312,55+,Mumbai,Maharashtra,Budget,Friends,Warm,Relaxed,Low-walking,2023-03-30 00:00:00
+U0313,18-24,Ahmedabad,Gujarat,Mid-range,Family,Warm,Balanced,None,2024-12-09 00:00:00
+U0314,25-34,Chennai,Tamil Nadu,Budget,Friends,Cool,Relaxed,Wheelchair-friendly,2023-03-09 00:00:00
+U0315,55+,Lucknow,Uttar Pradesh,Mid-range,Solo,Cool,Relaxed,None,2023-07-02 00:00:00
+U0316,18-24,Lucknow,Uttar Pradesh,Budget,Solo,Moderate,Balanced,None,2023-11-02 00:00:00
+U0317,45-54,Hyderabad,Telangana,Premium,Friends,Cool,Relaxed,None,2023-02-04 00:00:00
+U0318,35-44,Hyderabad,Telangana,Budget,Solo,Hot,Fast-paced,None,2025-07-08 00:00:00
+U0319,35-44,Chennai,Tamil Nadu,Mid-range,Solo,Hot,Relaxed,Low-walking,2024-07-25 00:00:00
+U0320,18-24,Jaipur,Rajasthan,Budget,Couple,Moderate,Relaxed,None,2025-09-19 00:00:00
+U0321,25-34,Bengaluru,Karnataka,Mid-range,Couple,Cool,Balanced,None,2025-03-07 00:00:00
+U0322,25-34,Hyderabad,Telangana,Mid-range,Friends,Hot,Relaxed,None,2023-10-15 00:00:00
+U0323,55+,Kochi,Kerala,Budget,Family,Cool,Relaxed,None,2025-07-01 00:00:00
+U0324,25-34,Chennai,Tamil Nadu,Mid-range,Friends,Moderate,Fast-paced,None,2024-05-18 00:00:00
+U0325,45-54,Hyderabad,Telangana,Budget,Friends,Cool,Balanced,None,2024-02-17 00:00:00
+U0326,55+,Hyderabad,Telangana,Budget,Couple,Moderate,Balanced,Wheelchair-friendly,2025-12-26 00:00:00
+U0327,55+,Ahmedabad,Gujarat,Mid-range,Friends,Humid,Balanced,None,2024-10-14 00:00:00
+U0328,55+,Lucknow,Uttar Pradesh,Mid-range,Couple,Warm,Fast-paced,Wheelchair-friendly,2025-01-30 00:00:00
+U0329,25-34,Kolkata,West Bengal,Mid-range,Couple,Hot,Balanced,None,2023-01-05 00:00:00
+U0330,25-34,Kolkata,West Bengal,Budget,Solo,Hot,Relaxed,None,2023-02-28 00:00:00
+U0331,45-54,Kolkata,West Bengal,Budget,Friends,Cool,Relaxed,None,2024-10-01 00:00:00
+U0332,18-24,Lucknow,Uttar Pradesh,Premium,Family,Moderate,Balanced,Low-walking,2023-08-06 00:00:00
+U0333,18-24,Kochi,Kerala,Mid-range,Couple,Hot,Fast-paced,None,2025-11-14 00:00:00
+U0334,45-54,Jaipur,Rajasthan,Mid-range,Family,Hot,Balanced,None,2024-08-19 00:00:00
+U0335,45-54,Pune,Maharashtra,Budget,Family,Moderate,Relaxed,None,2023-07-02 00:00:00
+U0336,18-24,Pune,Maharashtra,Budget,Solo,Hot,Fast-paced,None,2023-10-21 00:00:00
+U0337,18-24,Kolkata,West Bengal,Mid-range,Solo,Hot,Balanced,Low-walking,2024-08-11 00:00:00
+U0338,35-44,Vijayawada,Andhra Pradesh,Premium,Couple,Cool,Relaxed,None,2024-04-13 00:00:00
+U0339,35-44,Vijayawada,Andhra Pradesh,Premium,Solo,Cool,Balanced,None,2023-05-08 00:00:00
+U0340,35-44,Kochi,Kerala,Mid-range,Family,Humid,Balanced,None,2023-06-27 00:00:00
+U0341,35-44,Mumbai,Maharashtra,Budget,Family,Moderate,Relaxed,None,2025-06-24 00:00:00
+U0342,18-24,Chennai,Tamil Nadu,Mid-range,Couple,Hot,Relaxed,Low-walking,2023-04-16 00:00:00
+U0343,45-54,Mumbai,Maharashtra,Premium,Solo,Warm,Relaxed,None,2024-03-12 00:00:00
+U0344,35-44,Pune,Maharashtra,Mid-range,Friends,Hot,Fast-paced,None,2025-10-12 00:00:00
+U0345,25-34,Delhi,Delhi,Mid-range,Solo,Hot,Balanced,None,2024-06-16 00:00:00
+U0346,25-34,Kolkata,West Bengal,Mid-range,Solo,Hot,Balanced,Low-walking,2023-10-24 00:00:00
+U0347,45-54,Ahmedabad,Gujarat,Mid-range,Friends,Hot,Relaxed,None,2024-08-03 00:00:00
+U0348,55+,Ahmedabad,Gujarat,Budget,Couple,Moderate,Fast-paced,None,2023-10-18 00:00:00
+U0349,55+,Pune,Maharashtra,Budget,Family,Warm,Balanced,None,2023-04-15 00:00:00
+U0350,25-34,Vijayawada,Andhra Pradesh,Mid-range,Couple,Warm,Relaxed,Low-walking,2023-09-27 00:00:00
+U0351,35-44,Vijayawada,Andhra Pradesh,Budget,Friends,Warm,Balanced,None,2025-03-22 00:00:00
+U0352,25-34,Mumbai,Maharashtra,Budget,Couple,Warm,Balanced,None,2024-10-17 00:00:00
+U0353,55+,Lucknow,Uttar Pradesh,Mid-range,Couple,Warm,Fast-paced,None,2025-06-13 00:00:00
+U0354,35-44,Delhi,Delhi,Budget,Family,Cool,Fast-paced,None,2023-12-18 00:00:00
+U0355,55+,Kochi,Kerala,Mid-range,Couple,Hot,Fast-paced,None,2025-11-14 00:00:00
+U0356,18-24,Hyderabad,Telangana,Premium,Family,Cool,Relaxed,None,2024-06-16 00:00:00
+U0357,18-24,Pune,Maharashtra,Budget,Couple,Cool,Balanced,None,2023-04-10 00:00:00
+U0358,45-54,Vijayawada,Andhra Pradesh,Budget,Family,Cool,Fast-paced,None,2025-10-26 00:00:00
+U0359,45-54,Ahmedabad,Gujarat,Premium,Family,Humid,Relaxed,None,2023-05-07 00:00:00
+U0360,25-34,Vijayawada,Andhra Pradesh,Mid-range,Couple,Moderate,Balanced,None,2023-06-03 00:00:00
+U0361,55+,Ahmedabad,Gujarat,Mid-range,Family,Cool,Balanced,None,2024-01-26 00:00:00
+U0362,55+,Mumbai,Maharashtra,Budget,Family,Warm,Relaxed,None,2025-03-13 00:00:00
+U0363,35-44,Chennai,Tamil Nadu,Mid-range,Couple,Cool,Fast-paced,None,2025-09-14 00:00:00
+U0364,25-34,Lucknow,Uttar Pradesh,Premium,Family,Humid,Relaxed,None,2023-06-18 00:00:00
+U0365,25-34,Ahmedabad,Gujarat,Premium,Couple,Moderate,Fast-paced,Low-walking,2023-05-26 00:00:00
+U0366,18-24,Mumbai,Maharashtra,Mid-range,Family,Humid,Relaxed,None,2025-10-16 00:00:00
+U0367,25-34,Kolkata,West Bengal,Mid-range,Friends,Hot,Fast-paced,None,2024-08-15 00:00:00
+U0368,25-34,Pune,Maharashtra,Budget,Friends,Warm,Relaxed,None,2024-05-15 00:00:00
+U0369,45-54,Jaipur,Rajasthan,Premium,Couple,Hot,Balanced,None,2024-06-06 00:00:00
+U0370,35-44,Kochi,Kerala,Premium,Couple,Hot,Fast-paced,Low-walking,2024-10-24 00:00:00
+U0371,55+,Jaipur,Rajasthan,Budget,Family,Hot,Fast-paced,None,2023-10-17 00:00:00
+U0372,45-54,Ahmedabad,Gujarat,Mid-range,Solo,Hot,Balanced,None,2023-03-14 00:00:00
+U0373,18-24,Kolkata,West Bengal,Budget,Couple,Warm,Relaxed,None,2023-10-16 00:00:00
+U0374,55+,Hyderabad,Telangana,Mid-range,Solo,Warm,Balanced,None,2023-06-24 00:00:00
+U0375,45-54,Ahmedabad,Gujarat,Mid-range,Family,Hot,Balanced,None,2024-10-23 00:00:00
+U0376,35-44,Pune,Maharashtra,Mid-range,Friends,Moderate,Fast-paced,Low-walking,2023-03-06 00:00:00
+U0377,55+,Lucknow,Uttar Pradesh,Mid-range,Couple,Moderate,Balanced,Low-walking,2024-02-09 00:00:00
+U0378,55+,Pune,Maharashtra,Mid-range,Solo,Hot,Relaxed,Wheelchair-friendly,2023-09-26 00:00:00
+U0379,18-24,Hyderabad,Telangana,Mid-range,Couple,Hot,Relaxed,Low-walking,2025-04-08 00:00:00
+U0380,55+,Mumbai,Maharashtra,Premium,Family,Moderate,Fast-paced,None,2025-09-07 00:00:00
+U0381,45-54,Hyderabad,Telangana,Mid-range,Solo,Warm,Relaxed,None,2023-07-01 00:00:00
+U0382,25-34,Ahmedabad,Gujarat,Mid-range,Family,Hot,Balanced,None,2024-01-12 00:00:00
+U0383,18-24,Hyderabad,Telangana,Budget,Friends,Humid,Balanced,None,2024-09-07 00:00:00
+U0384,25-34,Lucknow,Uttar Pradesh,Budget,Friends,Humid,Relaxed,None,2023-12-20 00:00:00
+U0385,18-24,Pune,Maharashtra,Budget,Family,Cool,Relaxed,None,2023-03-24 00:00:00
+U0386,45-54,Bengaluru,Karnataka,Budget,Solo,Hot,Balanced,None,2025-02-16 00:00:00
+U0387,45-54,Pune,Maharashtra,Premium,Couple,Warm,Fast-paced,None,2023-11-13 00:00:00
+U0388,18-24,Jaipur,Rajasthan,Mid-range,Family,Moderate,Balanced,None,2024-10-09 00:00:00
+U0389,35-44,Kolkata,West Bengal,Mid-range,Solo,Warm,Balanced,None,2025-06-05 00:00:00
+U0390,55+,Kochi,Kerala,Budget,Couple,Hot,Balanced,None,2023-02-20 00:00:00
+U0391,55+,Mumbai,Maharashtra,Mid-range,Couple,Cool,Fast-paced,None,2025-09-21 00:00:00
+U0392,25-34,Kolkata,West Bengal,Premium,Family,Moderate,Balanced,None,2025-01-18 00:00:00
+U0393,35-44,Lucknow,Uttar Pradesh,Budget,Solo,Moderate,Balanced,None,2024-01-11 00:00:00
+U0394,18-24,Delhi,Delhi,Mid-range,Couple,Cool,Relaxed,None,2024-07-28 00:00:00
+U0395,45-54,Delhi,Delhi,Budget,Solo,Moderate,Balanced,None,2024-05-21 00:00:00
+U0396,55+,Hyderabad,Telangana,Budget,Solo,Moderate,Relaxed,None,2024-12-01 00:00:00
+U0397,35-44,Chennai,Tamil Nadu,Mid-range,Solo,Moderate,Fast-paced,None,2025-06-22 00:00:00
+U0398,18-24,Lucknow,Uttar Pradesh,Budget,Couple,Moderate,Relaxed,None,2023-04-10 00:00:00
+U0399,35-44,Ahmedabad,Gujarat,Budget,Solo,Moderate,Fast-paced,Low-walking,2023-03-21 00:00:00
+U0400,18-24,Vijayawada,Andhra Pradesh,Budget,Solo,Warm,Fast-paced,None,2024-12-12 00:00:00
+U0401,35-44,Kochi,Kerala,Budget,Couple,Warm,Fast-paced,None,2024-03-24 00:00:00
+U0402,45-54,Mumbai,Maharashtra,Mid-range,Solo,Humid,Balanced,None,2024-03-25 00:00:00
+U0403,18-24,Kochi,Kerala,Mid-range,Solo,Humid,Relaxed,None,2024-02-13 00:00:00
+U0404,45-54,Kochi,Kerala,Mid-range,Solo,Humid,Balanced,None,2024-02-14 00:00:00
+U0405,35-44,Lucknow,Uttar Pradesh,Premium,Friends,Moderate,Balanced,None,2023-05-21 00:00:00
+U0406,55+,Kolkata,West Bengal,Mid-range,Solo,Warm,Balanced,None,2023-07-05 00:00:00
+U0407,45-54,Hyderabad,Telangana,Budget,Couple,Warm,Fast-paced,None,2023-10-06 00:00:00
+U0408,25-34,Mumbai,Maharashtra,Mid-range,Couple,Moderate,Balanced,None,2023-01-18 00:00:00
+U0409,18-24,Vijayawada,Andhra Pradesh,Premium,Solo,Humid,Relaxed,None,2025-11-07 00:00:00
+U0410,25-34,Bengaluru,Karnataka,Budget,Family,Hot,Relaxed,None,2023-12-22 00:00:00
+U0411,35-44,Chennai,Tamil Nadu,Mid-range,Couple,Warm,Balanced,Wheelchair-friendly,2023-04-01 00:00:00
+U0412,35-44,Vijayawada,Andhra Pradesh,Budget,Solo,Moderate,Relaxed,None,2024-09-09 00:00:00
+U0413,55+,Vijayawada,Andhra Pradesh,Budget,Couple,Humid,Relaxed,None,2024-12-13 00:00:00
+U0414,18-24,Hyderabad,Telangana,Premium,Friends,Warm,Balanced,None,2023-11-03 00:00:00
+U0415,18-24,Bengaluru,Karnataka,Mid-range,Solo,Moderate,Relaxed,None,2024-08-11 00:00:00
+U0416,25-34,Pune,Maharashtra,Premium,Solo,Hot,Relaxed,None,2025-06-20 00:00:00
+U0417,18-24,Chennai,Tamil Nadu,Premium,Solo,Humid,Balanced,None,2025-12-04 00:00:00
+U0418,55+,Hyderabad,Telangana,Budget,Family,Cool,Balanced,None,2023-01-07 00:00:00
+U0419,55+,Mumbai,Maharashtra,Budget,Solo,Humid,Fast-paced,None,2024-12-25 00:00:00
+U0420,25-34,Chennai,Tamil Nadu,Budget,Friends,Warm,Fast-paced,None,2025-05-19 00:00:00
+U0421,45-54,Hyderabad,Telangana,Mid-range,Friends,Cool,Relaxed,None,2023-02-15 00:00:00
+U0422,45-54,Mumbai,Maharashtra,Budget,Family,Humid,Fast-paced,None,2024-08-12 00:00:00
+U0423,45-54,Delhi,Delhi,Mid-range,Solo,Humid,Balanced,None,2025-11-09 00:00:00
+U0424,55+,Chennai,Tamil Nadu,Mid-range,Friends,Warm,Relaxed,None,2024-06-22 00:00:00
+U0425,18-24,Bengaluru,Karnataka,Budget,Friends,Warm,Fast-paced,None,2023-07-29 00:00:00
+U0426,25-34,Ahmedabad,Gujarat,Mid-range,Solo,Hot,Balanced,None,2023-01-25 00:00:00
+U0427,25-34,Kolkata,West Bengal,Budget,Solo,Warm,Relaxed,None,2023-01-07 00:00:00
+U0428,35-44,Ahmedabad,Gujarat,Budget,Friends,Warm,Balanced,None,2025-05-10 00:00:00
+U0429,35-44,Vijayawada,Andhra Pradesh,Premium,Family,Moderate,Relaxed,None,2025-06-29 00:00:00
+U0430,35-44,Hyderabad,Telangana,Premium,Solo,Cool,Balanced,None,2023-04-03 00:00:00
+U0431,55+,Delhi,Delhi,Budget,Family,Moderate,Relaxed,None,2023-04-06 00:00:00
+U0432,25-34,Mumbai,Maharashtra,Budget,Couple,Hot,Balanced,Low-walking,2024-10-28 00:00:00
+U0433,35-44,Lucknow,Uttar Pradesh,Mid-range,Family,Humid,Fast-paced,None,2025-12-14 00:00:00
+U0434,55+,Pune,Maharashtra,Budget,Family,Cool,Fast-paced,None,2025-06-04 00:00:00
+U0435,55+,Chennai,Tamil Nadu,Mid-range,Friends,Hot,Balanced,None,2024-10-15 00:00:00
+U0436,55+,Ahmedabad,Gujarat,Mid-range,Couple,Cool,Fast-paced,Low-walking,2024-11-18 00:00:00
+U0437,35-44,Pune,Maharashtra,Mid-range,Solo,Humid,Relaxed,None,2024-04-27 00:00:00
+U0438,55+,Mumbai,Maharashtra,Mid-range,Friends,Moderate,Balanced,None,2025-04-20 00:00:00
+U0439,25-34,Lucknow,Uttar Pradesh,Premium,Friends,Warm,Relaxed,None,2025-08-14 00:00:00
+U0440,18-24,Kochi,Kerala,Mid-range,Couple,Moderate,Balanced,None,2023-09-09 00:00:00
+U0441,45-54,Lucknow,Uttar Pradesh,Mid-range,Solo,Cool,Balanced,Low-walking,2024-06-26 00:00:00
+U0442,55+,Ahmedabad,Gujarat,Budget,Solo,Warm,Fast-paced,None,2024-10-08 00:00:00
+U0443,18-24,Mumbai,Maharashtra,Budget,Family,Cool,Balanced,None,2024-06-21 00:00:00
+U0444,25-34,Pune,Maharashtra,Budget,Friends,Moderate,Fast-paced,None,2025-04-09 00:00:00
+U0445,35-44,Delhi,Delhi,Mid-range,Solo,Hot,Balanced,None,2024-10-22 00:00:00
+U0446,55+,Bengaluru,Karnataka,Budget,Solo,Moderate,Fast-paced,None,2024-11-19 00:00:00
+U0447,35-44,Vijayawada,Andhra Pradesh,Premium,Friends,Humid,Fast-paced,None,2024-07-14 00:00:00
+U0448,45-54,Bengaluru,Karnataka,Mid-range,Couple,Warm,Relaxed,None,2025-12-08 00:00:00
+U0449,18-24,Chennai,Tamil Nadu,Budget,Friends,Cool,Relaxed,None,2024-12-11 00:00:00
+U0450,18-24,Pune,Maharashtra,Mid-range,Couple,Moderate,Balanced,None,2025-12-09 00:00:00
+U0451,45-54,Kolkata,West Bengal,Premium,Couple,Warm,Balanced,None,2025-04-04 00:00:00
+U0452,25-34,Vijayawada,Andhra Pradesh,Budget,Solo,Cool,Fast-paced,None,2023-02-21 00:00:00
+U0453,18-24,Vijayawada,Andhra Pradesh,Mid-range,Couple,Warm,Fast-paced,None,2024-09-03 00:00:00
+U0454,18-24,Ahmedabad,Gujarat,Mid-range,Family,Hot,Fast-paced,None,2023-08-05 00:00:00
+U0455,18-24,Ahmedabad,Gujarat,Premium,Couple,Hot,Balanced,None,2024-11-08 00:00:00
+U0456,45-54,Pune,Maharashtra,Budget,Family,Moderate,Balanced,Low-walking,2023-02-11 00:00:00
+U0457,18-24,Kochi,Kerala,Premium,Couple,Warm,Fast-paced,None,2023-10-23 00:00:00
+U0458,18-24,Jaipur,Rajasthan,Budget,Solo,Hot,Balanced,None,2023-01-20 00:00:00
+U0459,35-44,Jaipur,Rajasthan,Mid-range,Couple,Humid,Fast-paced,None,2025-03-19 00:00:00
+U0460,45-54,Hyderabad,Telangana,Budget,Family,Warm,Fast-paced,None,2024-02-25 00:00:00
+U0461,35-44,Chennai,Tamil Nadu,Budget,Solo,Hot,Balanced,None,2023-09-25 00:00:00
+U0462,35-44,Chennai,Tamil Nadu,Budget,Friends,Cool,Fast-paced,Low-walking,2024-01-08 00:00:00
+U0463,45-54,Jaipur,Rajasthan,Mid-range,Solo,Hot,Fast-paced,None,2023-06-26 00:00:00
+U0464,18-24,Vijayawada,Andhra Pradesh,Budget,Solo,Hot,Fast-paced,None,2023-07-18 00:00:00
+U0465,55+,Bengaluru,Karnataka,Premium,Family,Warm,Relaxed,None,2025-06-16 00:00:00
+U0466,25-34,Hyderabad,Telangana,Budget,Solo,Cool,Fast-paced,None,2023-10-02 00:00:00
+U0467,18-24,Hyderabad,Telangana,Budget,Friends,Hot,Balanced,None,2023-10-17 00:00:00
+U0468,25-34,Kochi,Kerala,Mid-range,Friends,Warm,Balanced,None,2025-08-07 00:00:00
+U0469,25-34,Jaipur,Rajasthan,Budget,Friends,Moderate,Fast-paced,None,2025-04-07 00:00:00
+U0470,55+,Ahmedabad,Gujarat,Premium,Friends,Cool,Balanced,Low-walking,2025-09-04 00:00:00
+U0471,18-24,Delhi,Delhi,Mid-range,Couple,Humid,Fast-paced,Wheelchair-friendly,2025-04-22 00:00:00
+U0472,25-34,Delhi,Delhi,Premium,Solo,Moderate,Fast-paced,None,2025-05-16 00:00:00
+U0473,35-44,Kolkata,West Bengal,Budget,Couple,Humid,Fast-paced,None,2024-10-13 00:00:00
+U0474,45-54,Ahmedabad,Gujarat,Budget,Solo,Warm,Fast-paced,None,2025-01-18 00:00:00
+U0475,25-34,Bengaluru,Karnataka,Mid-range,Family,Cool,Balanced,None,2024-04-14 00:00:00
+U0476,25-34,Jaipur,Rajasthan,Mid-range,Solo,Moderate,Fast-paced,None,2024-03-22 00:00:00
+U0477,35-44,Vijayawada,Andhra Pradesh,Premium,Solo,Hot,Relaxed,None,2024-01-24 00:00:00
+U0478,25-34,Lucknow,Uttar Pradesh,Mid-range,Family,Cool,Relaxed,None,2025-06-24 00:00:00
+U0479,35-44,Ahmedabad,Gujarat,Budget,Friends,Humid,Balanced,None,2023-07-05 00:00:00
+U0480,45-54,Jaipur,Rajasthan,Budget,Solo,Humid,Relaxed,None,2023-07-24 00:00:00
+U0481,25-34,Ahmedabad,Gujarat,Budget,Solo,Moderate,Balanced,None,2025-06-05 00:00:00
+U0482,25-34,Delhi,Delhi,Mid-range,Solo,Humid,Fast-paced,Low-walking,2024-02-13 00:00:00
+U0483,35-44,Kochi,Kerala,Mid-range,Friends,Hot,Balanced,None,2025-08-21 00:00:00
+U0484,45-54,Lucknow,Uttar Pradesh,Premium,Friends,Warm,Relaxed,None,2024-03-23 00:00:00
+U0485,25-34,Ahmedabad,Gujarat,Budget,Friends,Humid,Fast-paced,None,2023-04-13 00:00:00
+U0486,18-24,Jaipur,Rajasthan,Budget,Solo,Cool,Balanced,None,2024-08-07 00:00:00
+U0487,35-44,Lucknow,Uttar Pradesh,Premium,Friends,Hot,Fast-paced,None,2024-04-06 00:00:00
+U0488,18-24,Mumbai,Maharashtra,Mid-range,Couple,Hot,Relaxed,None,2025-06-16 00:00:00
+U0489,25-34,Pune,Maharashtra,Mid-range,Family,Humid,Relaxed,None,2025-11-29 00:00:00
+U0490,25-34,Delhi,Delhi,Budget,Friends,Humid,Fast-paced,None,2023-12-14 00:00:00
+U0491,45-54,Pune,Maharashtra,Mid-range,Friends,Hot,Fast-paced,None,2023-12-30 00:00:00
+U0492,45-54,Bengaluru,Karnataka,Mid-range,Couple,Cool,Relaxed,None,2023-08-26 00:00:00
+U0493,55+,Delhi,Delhi,Mid-range,Friends,Hot,Balanced,Low-walking,2024-11-16 00:00:00
+U0494,18-24,Kochi,Kerala,Mid-range,Family,Humid,Relaxed,Low-walking,2025-03-07 00:00:00
+U0495,25-34,Mumbai,Maharashtra,Budget,Family,Cool,Balanced,None,2023-02-06 00:00:00
+U0496,45-54,Chennai,Tamil Nadu,Mid-range,Friends,Cool,Balanced,Low-walking,2024-06-01 00:00:00
+U0497,45-54,Delhi,Delhi,Mid-range,Solo,Warm,Relaxed,None,2023-02-22 00:00:00
+U0498,55+,Kolkata,West Bengal,Budget,Family,Humid,Fast-paced,None,2024-06-08 00:00:00
+U0499,25-34,Chennai,Tamil Nadu,Mid-range,Solo,Moderate,Balanced,None,2023-01-19 00:00:00
+U0500,18-24,Jaipur,Rajasthan,Budget,Family,Humid,Balanced,Wheelchair-friendly,2023-07-03 00:00:00

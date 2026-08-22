@@ -1,0 +1,233 @@
+2026-08-06 07:44:46.872 
+Warning: the config option 'server.enableCORS=false' is not compatible with
+'server.enableXsrfProtection=true'.
+As a result, 'server.enableCORS' is being overridden to 'true'.
+
+More information:
+In order to protect against CSRF attacks, we send a cookie with each request.
+To do so, we must specify allowable origins, which places a restriction on
+cross-origin resource sharing.
+
+If cross origin resource sharing is required, please disable server.enableXsrfProtection.
+            
+2026-08-06 07:44:46.883 No ASGI app assignments found in C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\hotel_app.py
+2026-08-06 07:44:47.316 Filtered 83 packages down to 1 candidates for component scanning
+2026-08-06 07:44:47.317 Scanning 1 candidate packages for component manifests using 1 worker threads
+2026-08-06 07:44:47.352 Found 0 component manifests total
+2026-08-06 07:44:47.353 No asset roots to watch
+2026-08-06 07:44:47.353 File watching not started
+2026-08-06 07:44:47.355 Starting new event loop for server
+2026-08-06 07:44:47.358 Starting server...
+2026-08-06 07:44:47.653 Starting uvicorn server on :::8501
+2026-08-06 07:44:47.837 Runtime state: RuntimeState.INITIAL -> RuntimeState.NO_SESSIONS_CONNECTED
+2026-08-06 07:44:47.839 Uvicorn server started on :::8501
+2026-08-06 07:44:48.559 Setting up signal handler
+2026-08-06 07:44:48.620 No singleton. Registering one.
+2026-08-06 07:44:48.622 Watcher created for C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\hotel_app.py
+2026-08-06 07:44:48.622 AppSession initialized (id=47b01132-0644-4289-9c02-1fe8c80999e2)
+2026-08-06 07:44:48.622 Created new session for client 1445081504288. Session ID: 47b01132-0644-4289-9c02-1fe8c80999e2
+2026-08-06 07:44:48.624 Runtime state: RuntimeState.NO_SESSIONS_CONNECTED -> RuntimeState.ONE_OR_MORE_SESSIONS_CONNECTED
+2026-08-06 07:44:48.625 Beginning script thread
+2026-08-06 07:44:48.626 Running script
+2026-08-06 07:44:48.626 Disconnecting files for session with ID 47b01132-0644-4289-9c02-1fe8c80999e2
+2026-08-06 07:44:48.626 Sessions still active: dict_keys([])
+2026-08-06 07:44:48.627 Files: 0; Sessions with files: 0
+2026-08-06 07:44:52.766 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\__pycache__\recommendor.cpython-310.pyc.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>)}
+2026-08-06 07:45:00.255 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\__pycache__\place_func.cpython-310.pyc.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>)}
+2026-08-06 07:45:00.258 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\place_func.py.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>)}
+2026-08-06 07:45:00.260 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\__pycache__\place_func.cpython-310.pyc.1443756795504.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>)}
+2026-08-06 07:45:00.261 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\__pycache__\place_func.cpython-310.pyc.1443756795504.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>)}
+2026-08-06 07:45:00.263 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\__pycache__.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>)}
+2026-08-06 07:45:00.264 Move event: src C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\__pycache__\place_func.cpython-310.pyc.1443756795504; dest C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\__pycache__\place_func.cpython-310.pyc
+2026-08-06 07:45:00.265 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\__pycache__\place_func.cpython-310.pyc.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>)}
+2026-08-06 07:45:00.266 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\__pycache__.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>)}
+2026-08-06 07:45:00.267 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\__pycache__\rest_recc.cpython-310.pyc.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>)}
+2026-08-06 07:45:00.269 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\rest_recc.py.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>)}
+2026-08-06 07:45:00.271 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\__pycache__\rest_recc.cpython-310.pyc.1443756795696.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>)}
+2026-08-06 07:45:00.272 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\__pycache__.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>)}
+2026-08-06 07:45:00.273 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\__pycache__\rest_recc.cpython-310.pyc.1443756795696.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>)}
+2026-08-06 07:45:00.276 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\__pycache__.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>)}
+2026-08-06 07:45:00.279 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\hotel_dataframe.pkl.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>)}
+2026-08-06 07:45:00.304 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\places_dataframe.pkl.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>)}
+2026-08-06 07:45:00.365 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\rest_dataframe.pkl.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>)}
+2026-08-06 07:45:00.528 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-08-06 07:45:00.785 Adding media file cded85d37f67e6fdbab89f629bc330e3
+2026-08-06 07:45:01.119 Removing orphaned files...
+2026-08-06 07:45:01.120 Removing orphaned deferred callables...
+2026-08-06 07:45:09.362 Watcher created for C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\recommendor.py
+2026-08-06 07:45:09.363 File/dir timestamp did not change: C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\recommendor.py
+2026-08-06 07:45:09.364 Watcher created for C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\place_func.py
+2026-08-06 07:45:09.366 Watcher created for C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\rest_recc.py
+2026-08-06 07:45:41.488 Watcher created for C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\hotel_app.py
+2026-08-06 07:45:41.490 AppSession initialized (id=75531af5-cdc7-450c-baf3-dd33b8d1e265)
+2026-08-06 07:45:41.490 Created new session for client 1443829099024. Session ID: 75531af5-cdc7-450c-baf3-dd33b8d1e265
+2026-08-06 07:45:41.490 Runtime state: RuntimeState.ONE_OR_MORE_SESSIONS_CONNECTED -> RuntimeState.ONE_OR_MORE_SESSIONS_CONNECTED
+2026-08-06 07:45:41.499 Beginning script thread
+2026-08-06 07:45:41.503 Running script
+2026-08-06 07:45:41.503 Disconnecting files for session with ID 75531af5-cdc7-450c-baf3-dd33b8d1e265
+2026-08-06 07:45:41.504 Sessions still active: dict_keys(['47b01132-0644-4289-9c02-1fe8c80999e2'])
+2026-08-06 07:45:41.505 Files: 1; Sessions with files: 1
+Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Program Files\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Program Files\Python310\lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-08-06 07:45:42.915 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-08-06 07:45:43.111 Removing orphaned files...
+2026-08-06 07:45:43.112 Removing orphaned deferred callables...
+2026-08-06 07:45:48.317 Watcher created for C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\recommendor.py
+2026-08-06 07:45:48.322 Watcher created for C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\place_func.py
+2026-08-06 07:45:48.325 Watcher created for C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\rest_recc.py
+2026-08-06 07:47:00.419 Beginning script thread
+2026-08-06 07:47:00.422 Running script
+2026-08-06 07:47:00.423 Disconnecting files for session with ID 75531af5-cdc7-450c-baf3-dd33b8d1e265
+2026-08-06 07:47:00.423 Sessions still active: dict_keys(['47b01132-0644-4289-9c02-1fe8c80999e2'])
+2026-08-06 07:47:00.424 Files: 1; Sessions with files: 1
+2026-08-06 07:47:00.592 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-08-06 07:47:00.717 Removing orphaned files...
+2026-08-06 07:47:00.718 Removing orphaned deferred callables...
+2026-08-06 07:47:19.978 Ignoring changed path C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\__pycache__\place_func.cpython-310.pyc.
+Watched_paths: {'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\hotel_app.py': WatchedPath(content_hash='4798dd11554c8e586e55e1aee1c8dd6d', modification_time=1785949738.8298435, on_changed=<blinker.base.Signal object at 0x0000015075985F30>), 'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\recommendor.py': WatchedPath(content_hash='17eecb1629e2059a3de29b8c3efbea3e', modification_time=1785950851.284525, on_changed=<blinker.base.Signal object at 0x0000015026AA06A0>), 'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\place_func.py': WatchedPath(content_hash='5ae9e6e35cd1f37a86bf5c396878e84a', modification_time=1785951036.5794182, on_changed=<blinker.base.Signal object at 0x0000015075986C50>), 'C:\\Users\\Sk Narayana Swami\\OneDrive\\Documents\\Desktop\\project\\YatraMind_AI\\Streamlit Website\\rest_recc.py': WatchedPath(content_hash='0c8c99547866b0498102cdee251eb2e6', modification_time=1785951702.3218577, on_changed=<blinker.base.Signal object at 0x0000015075986A40>)}
+2026-08-06 07:47:28.220 Beginning script thread
+2026-08-06 07:47:28.222 Running script
+2026-08-06 07:47:28.222 Disconnecting files for session with ID 75531af5-cdc7-450c-baf3-dd33b8d1e265
+2026-08-06 07:47:28.223 Sessions still active: dict_keys(['47b01132-0644-4289-9c02-1fe8c80999e2'])
+2026-08-06 07:47:28.224 Files: 1; Sessions with files: 1
+2026-08-06 07:47:28.420 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-08-06 07:47:28.597 Removing orphaned files...
+2026-08-06 07:47:28.598 Removing orphaned deferred callables...
+2026-08-06 07:47:44.748 Beginning script thread
+2026-08-06 07:47:44.750 Running script
+2026-08-06 07:47:44.751 Disconnecting files for session with ID 75531af5-cdc7-450c-baf3-dd33b8d1e265
+2026-08-06 07:47:44.751 Sessions still active: dict_keys(['47b01132-0644-4289-9c02-1fe8c80999e2'])
+2026-08-06 07:47:44.752 Files: 1; Sessions with files: 1
+2026-08-06 07:47:44.931 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-08-06 07:47:45.110 Removing orphaned files...
+2026-08-06 07:47:45.111 Removing orphaned deferred callables...
+2026-08-06 07:48:10.205 Beginning script thread
+2026-08-06 07:48:10.207 Running script
+2026-08-06 07:48:10.207 Disconnecting files for session with ID 75531af5-cdc7-450c-baf3-dd33b8d1e265
+2026-08-06 07:48:10.207 Sessions still active: dict_keys(['47b01132-0644-4289-9c02-1fe8c80999e2'])
+2026-08-06 07:48:10.207 Files: 1; Sessions with files: 1
+2026-08-06 07:48:10.398 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-08-06 07:48:10.576 Removing orphaned files...
+2026-08-06 07:48:10.578 Removing orphaned deferred callables...
+2026-08-06 07:48:26.813 Beginning script thread
+2026-08-06 07:48:26.820 Running script
+2026-08-06 07:48:26.821 Disconnecting files for session with ID 75531af5-cdc7-450c-baf3-dd33b8d1e265
+2026-08-06 07:48:26.821 Sessions still active: dict_keys(['47b01132-0644-4289-9c02-1fe8c80999e2'])
+2026-08-06 07:48:26.822 Files: 1; Sessions with files: 1
+2026-08-06 07:48:27.007 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-08-06 07:48:27.195 Removing orphaned files...
+2026-08-06 07:48:27.198 Removing orphaned deferred callables...
+2026-08-06 07:48:35.053 Beginning script thread
+2026-08-06 07:48:35.055 Running script
+2026-08-06 07:48:35.058 Disconnecting files for session with ID 75531af5-cdc7-450c-baf3-dd33b8d1e265
+2026-08-06 07:48:35.059 Sessions still active: dict_keys(['47b01132-0644-4289-9c02-1fe8c80999e2'])
+2026-08-06 07:48:35.060 Files: 1; Sessions with files: 1
+2026-08-06 07:48:35.179 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-08-06 07:48:35.262 Removing orphaned files...
+2026-08-06 07:48:35.266 Removing orphaned deferred callables...
+2026-08-06 07:49:19.177 Beginning script thread
+2026-08-06 07:49:19.179 Running script
+2026-08-06 07:49:19.180 Disconnecting files for session with ID 75531af5-cdc7-450c-baf3-dd33b8d1e265
+2026-08-06 07:49:19.180 Sessions still active: dict_keys(['47b01132-0644-4289-9c02-1fe8c80999e2'])
+2026-08-06 07:49:19.181 Files: 1; Sessions with files: 1
+2026-08-06 07:49:19.358 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\rest_recc.py:42: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  req_based['Desc_Similarity'] = cos_desc
+C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\rest_recc.py:66: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  req_based['Locality_Similarity'] = cos_locality
+C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\rest_recc.py:70: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  req_based['Total_Similarity'] = req_based['Desc_Similarity'] + req_based['Locality_Similarity']
+C:\Users\Sk Narayana Swami\OneDrive\Documents\Desktop\project\YatraMind_AI\Streamlit Website\rest_recc.py:77: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  req_based['Weighted_Score'] = (req_based['Rating'] * rating_weight) + (req_based['Locality_Similarity'] * locality_weight)
+2026-08-06 07:49:28.438 Removing orphaned files...
+2026-08-06 07:49:28.439 Removing orphaned deferred callables...
+2026-08-06 07:49:56.046 Shutting down (id=47b01132-0644-4289-9c02-1fe8c80999e2)
+2026-08-06 07:49:56.049 Disconnecting files for session with ID 47b01132-0644-4289-9c02-1fe8c80999e2
+2026-08-06 07:49:56.049 Sessions still active: dict_keys(['75531af5-cdc7-450c-baf3-dd33b8d1e265'])
+2026-08-06 07:49:56.049 Files: 1; Sessions with files: 1
+2026-08-06 07:49:56.051 Removing orphaned files...
+2026-08-06 07:49:56.051 Removing orphaned deferred callables...
+2026-08-06 07:49:56.052 Runtime state: RuntimeState.ONE_OR_MORE_SESSIONS_CONNECTED -> RuntimeState.NO_SESSIONS_CONNECTED
+Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Program Files\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Program Files\Python310\lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
